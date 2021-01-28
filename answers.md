@@ -58,4 +58,8 @@ On branch main
 Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
-Answer 10: 
+Answer 10: no
+Answer 11: An error would have occured.
+Answer 12: yes
+Answer 13: .               ..              git-lab         git-lab-2
+
